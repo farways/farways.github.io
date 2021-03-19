@@ -2,7 +2,7 @@
 title: Farways的小岛
 SEOTitle: Farways的小岛
 header-img: img/post-bg-desk.jpg
-# email: klovien@gmail.com
+email: klovien@gmail.com
 description: "中西融合, 即学即会, 从此不再辛苦背单词"
 keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
 url: "https://klovien.github.io"          # your host, for absolute URL
@@ -61,12 +61,12 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: faul    #是否开启Gitalk评论
+  enable: true    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  repo: farways.github.io    #仓库名称
+  owner: farways    #github用户名
+  admin: farways
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
